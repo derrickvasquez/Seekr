@@ -6,4 +6,4 @@ The user can also sort how much of each article(s) can be displayed.
 
 Created using JS, Parcel, and FetchAPI. 
 
-v.1.0 - Demo here: 
+v.1.0 
